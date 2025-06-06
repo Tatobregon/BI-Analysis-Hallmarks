@@ -12,10 +12,9 @@ Este proyecto con el objetivo de analizar información operativa, táctica y est
 
 #### 🛠 Herramientas utilizadas:
 
-* **Power BI** para visualización de datos y dashboards interactivos.
+* **Power BI** para limpieza y visualización de datos con dashboards interactivos.
 * **Excel** para limpieza, transformación y exploración preliminar de los datos.
 * **Modelado estrella** aplicado a las tablas para una navegación eficiente en Power BI.
-* **Python** Para una limpieza profunda del dataset, eliminiando outliers y cualquier informacion incorrecta.
 
 ---
 
@@ -35,4 +34,3 @@ Este proyecto con el objetivo de analizar información operativa, táctica y est
 * Creación de dashboards claros, interactivos y orientados a negocio.
 * Uso de filtros, segmentadores, KPI dinámicos y visualizaciones profesionales.
 * Comunicación efectiva de insights a partir de datos reales de negocio.
-
